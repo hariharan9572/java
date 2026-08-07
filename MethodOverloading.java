@@ -1,4 +1,6 @@
 class Calculator{
+    int num;
+
     public int add(int a, int b){
         return a+b;
     }
@@ -7,7 +9,7 @@ class Calculator{
         return a+b+c;
     }
 
-    public long add(long a, long b){
+    public double add(double a, double b){
         return a+b;
     }
 }

@@ -19,3 +19,5 @@ public class StackAndHeap {
         System.out.println(obj1.num);
     }
 }
+
+// every methods have their own stack and local variables are part of stack not heap memory.
