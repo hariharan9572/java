@@ -82,4 +82,60 @@ Additional notes: [`docs/learning.md`](docs/learning.md)
 
 ## Advanced Java
 
-_Not yet started._
+### Interfaces
+- What Is Interface (`WhatIsInterface.java`)
+- Need of Interface (`NeedOfInterface.java`)
+- More on Interface (`MoreOnInterface.java`)
+- Functional Interface (`FunctionalInterfaceNew.java`)
+
+### Abstraction & Inner Classes
+- Abstract Keyword (`AbstractKeyword.java`)
+- Abstract and Anonymous Inner Class (`AbstarctAndAnonumousInnerClass.java`)
+- Inner Class (`InnerClass.java`)
+- Anonymous Inner Class (`AnonymousInnerClass.java`)
+
+### Enums
+- What Is Enum (`WhatIsEnum.java`)
+- Enum Class (`EnumClass.java`)
+- Enum with If and Switch (`EnumIfAndSwitch.java`)
+
+### Exception Handling
+- What Is Exception (`WhatIsException.java`)
+- Exception Handling using Try-Catch (`ExceptionHandlingUsingTryCatch.java`)
+- Try with Multiple Catch (`TryWithMultipleCatch.java`)
+- Try with Resources (`TryWithResources.java`)
+- Throw Keyword (`ExceptionThrowKeyword.java`)
+- Ducking Exception using Throws (`DuckingExceptionUsingThrows.java`)
+- Custom Exception (`CustomeException.java`)
+
+### Multithreading
+- Runnable vs Thread (`RunnableVsThread.java`)
+- Multiple Threads (`MultipleThreads.java`)
+- Thread Priority and Sleep (`ThreadPriorityAndSleep.java`)
+- Race Condition (`RaceCondition.java`)
+
+### Lambda Expressions & Method References
+- Lambda Expression (`LambdaExpression.java`)
+- Lambda Expression with Return (`LambdaExpressionWithReturn.java`)
+- Method Reference (`MethodReference.java`)
+- Constructor Reference (`ConstructorReference.java`)
+
+### Collections API
+- ArrayList (`ArrayList.java`)
+- Set (`Set.java`)
+- Map (`Map.java`)
+- Comparator vs Comparable (`ComparatorVsComparable.java`)
+- For-Each Method (`ForEachMethod.java`)
+
+### Stream API
+- Need of Stream API (`NeedOfStreamAPI.java`)
+- Stream API (`StreamAPI.java`)
+- Map, Filter, Reduce, Sorted (`MapFilterReduceSorted.java`)
+- Parallel Stream in Java (`ParallelStreamInJava.java`)
+- Optional Class in Java (`OptionalClassInJava.java`)
+
+### Annotations
+- What Is Annotation (`WhatIsAnnotation.java`)
+
+### I/O
+- User Input using BufferedReader and Scanner (`UserInputUsingBufferedReaderAndScanner.java`)
