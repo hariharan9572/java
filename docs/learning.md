@@ -37,3 +37,10 @@ if you want to the store the object in hard driver for those case is know as ser
 when program starts take object from hard drive which is known as deserialization
 ```
 
+## Exceptions
+Error
+
+1. Compile time error
+2. Runtime error -> Exception Handling
+3. Logical error
+
