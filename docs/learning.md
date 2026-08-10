@@ -44,3 +44,6 @@ Error
 2. Runtime error -> Exception Handling
 3. Logical error
 
+## Thread states
+
+New -> Runnable -> Running -> Waiting -> Dead
