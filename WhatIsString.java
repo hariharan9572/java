@@ -1,4 +1,4 @@
-public class Strings {
+public class WhatIsString {
     public static void main(String[] args){
         // String name = "Hari";
         String name = new String("Hari");

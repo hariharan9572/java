@@ -64,7 +64,7 @@ Example programs organized by topic.
 - Static Block (`StaticBlock.java`)
 
 ### Strings
-- Strings (`Strings.java`)
+- Strings (`WhatIsString.java`)
 - Mutable vs Immutable String (`MutableVsImmutableString.java`)
 - StringBuffer and StringBuilder (`StringBufferAndStringBuilder.java`)
 
